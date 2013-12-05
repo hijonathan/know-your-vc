@@ -2,4 +2,5 @@
 
 A simple little repo to keep track of VCs. Created in preparation for [#Unpitch](http://unpitch.org).
 
-🚀 Made by @appcues.
+
+:rocket: Made by @Appcues
